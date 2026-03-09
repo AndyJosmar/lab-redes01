@@ -58,8 +58,12 @@ Router --> |LAN 3| PC3
 
 ```
 Imagen da topologia utilizada  no laboratorio
-![](
 
+
+
+
+
+<img width="588" height="540" alt="topologia" src="https://github.com/user-attachments/assets/2ae25e30-4df5-4e13-96a7-d881f7939584" />
 
 
 
