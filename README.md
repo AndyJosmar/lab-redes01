@@ -22,9 +22,38 @@ o projeto sera realizada em duas etapas:
 
 ---
 
-## 3. Equipamento utilizada neste laboratorio 
+## 2. Equipamento utilizada neste laboratorio 
 
   - 3 notebooks
   - 1 roteador wireless com 1 wan e 4 portas LAN
   - 1 Impressora 
   - Cabo de rede
+
+---
+
+## 3. Tropologia da rede 
+Diagrama lógica da rede utilizada neste laboratório:
+
+```mermaid
+graph TD
+
+WAN[INTERNET / WAN do provador]
+
+Router[roteador wireless<bar> 1 Porta WAN<br> 4 Portas LAN]
+
+PC1[notebook 1]
+PC2[notebook 2]
+PC3[notebook 3]
+
+Printer[impressora da rede]
+
+```
+
+
+
+
+
+
+
+
+
