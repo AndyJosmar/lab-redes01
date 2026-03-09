@@ -47,9 +47,18 @@ PC3[notebook 3]
 
 Printer[impressora da rede]
 
+WAN --> |Porta WAN| Router
+
+Router --> |LAN 1| PC1
+Router --> |LAN 2| PC2
+Router --> |LAN 3| PC3
+
+
+
+
 ```
-
-
+Imagen da topologia utilizada  no laboratorio
+![](
 
 
 
